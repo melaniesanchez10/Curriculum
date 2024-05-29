@@ -1,0 +1,177 @@
+.contenedor-principal{
+    width:90%;
+    padding:1%;
+	display:flex;
+}
+.row-primero{
+	width:30%;
+}
+.row-segundo{
+	width:82%;
+}
+.card-body card-title{
+    text-align: left;
+}
+.card-body{
+    background: #232339;
+}
+.p card-text{
+    text-align: left;
+}
+.p text-f{
+    text-align: center;
+}
+.card-body h5{
+    text-align: center;
+    color: #E2E6EE;
+
+}
+.card-body p{
+    text-align: center;
+    color: #E2E6EE;
+}
+body{
+    background:#2E2E48;
+    font-family: "Afacad", sans-serif;
+}
+
+.card-body h4{
+    text-align: center;
+    background: linear-gradient(#A478E8,#516CF7);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.card-personal{
+    background-color: #232339;
+}
+.personal-info ul{
+    color: #E2E6EE;
+
+}
+.personal-info li{
+    color: #E2E6EE;
+    list-style: none;
+}
+.personal-info a{
+    text-decoration: none;
+    color: #E2E6EE;
+    margin-left: 5px;
+}
+.card-social{
+    background-color: #232339;
+}
+.social-media ul{
+    color: #E2E6EE;
+}
+.social-media li{
+    color: #E2E6EE;
+    list-style: none;
+}
+.social-media a{
+    text-decoration: none;
+    color: #E2E6EE;
+    margin-left: 5px;
+}
+.card-languages{
+    background-color: #232339;
+}
+.per-lan li{
+    list-style: none;
+    color: #E2E6EE;
+    display: flex;
+}
+.per-lan p{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.idioma{
+    text-align:left;
+}
+.idioma p{
+    margin:0px;
+    
+}
+.idioma span{
+   font-size:12px;
+    padding:10px;
+}
+.texto{
+	color:white;
+}
+.iconos{
+    width:40px;
+    height:40px;
+    border-radius:10%;
+}
+.experiencia{
+    text-align:left;
+}
+.experiencia p{
+    margin:0px;
+    
+}
+.experiencia span{
+    color:white;
+   font-size:12px;
+}
+.card-body p {
+text-align:left;
+    
+}
+.card{
+	border:none;
+	 border-bottom:var(--bs-card-border-width) solid var(--bs-card-border-color) !important;
+}
+.experiencia2 span{
+	background-color: #a578e836;
+	color:white;
+	padding:5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.experiencia2 p{
+	margin-top: 10px;
+	font-size:10px;
+}
+.education{
+	display:flex;
+	width:100%;
+}
+.col{
+	background-color:rgba(207, 207, 207, 0.135);
+	color:white;
+	padding:10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.skill{
+	display:flex;
+	width:100%;
+    
+    
+}
+.container{
+	border:solid 1px white;
+}
+.img-edu{
+    width:100px;
+    height:100px;
+    border-radius:10%;
+    align-content: center;
+}
+.text-p{
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+.img-gen{
+    width: 50px;
+    height: 50px;
+}
